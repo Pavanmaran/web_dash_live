@@ -24,23 +24,25 @@ class Profile extends StatelessWidget {
           child: Column(
             children: [
               const SizedBox(
-                height:   50,
+                height: 50,
               ),
               Image.asset(
-                "assets/images/avatar.png",
+                "assets/images/logo_circle.png",
+                width: 150,
+                height: 150,
               ),
               const SizedBox(
                 height: 15,
               ),
               const Text(
-                "Summer",
+                "OTAmation Industry",
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
               ),
               const SizedBox(
                 height: 2,
               ),
               Text(
-                "Edit health details",
+                "Industry automation partner",
                 style: TextStyle(
                   fontSize: 12,
                   color: Theme.of(context).primaryColor,
