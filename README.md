@@ -1,12 +1,8 @@
-# Flutter responsive dashboard / admin panel UI
+# Design and Developed By Pawan Meena at OTAmation Technologies
 
 Supports for Mobile/Web/Windows/Mac/Linux app.
 
-CI/CD Tool: Codemagic
-
-Live demo: https://flutter-dashboard.codemagic.app/#/
-
-UI reference: https://dribbble.com/shots/20572883-Fitness-Dashboard-UI-Design  
+Live demo: https://pavanmaran.github.io/web_dash_live/build/web/
 
 ## Screenshot
 
